@@ -2,6 +2,7 @@
 
 #Greedy Algorithms
 Application
+
   Finding Optimal Solution
   
       Activity Solution
