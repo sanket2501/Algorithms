@@ -2,11 +2,8 @@
 
 #Greedy Algorithms
 Application
-
   Finding Optimal Solution
-  
       Activity Solution
-      
       Fractional Knapsack
       Job Sequencing
       Prim's Algorithms
